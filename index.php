@@ -50,7 +50,7 @@
             <form action="generate_summary.php" method="post">
                 <div class="form-group">
                     <label for="location">Enter Location:</label>
-                    <input type="text" class="form-control" id="location" name="location" placeholder="E.g., New York" required>
+                    <input type="text" class="form-control" id="location" name="location" placeholder="E.g., Paris" required>
                 </div>
                 <button type="submit" class="btn btn-block">Get Weather</button>
             </form>
